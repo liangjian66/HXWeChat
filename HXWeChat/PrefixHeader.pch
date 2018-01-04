@@ -1,0 +1,39 @@
+//
+//  PrefixHeader.pch
+//  HXWeChat
+//
+//  Created by 韩小胜 on 2017/12/29.
+//  Copyright © 2017年 HX. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <Masonry.h>
+#import "CopyAbleLabel.h"
+#import <UIImageView+WebCache.h>
+#import <UITableViewCell+HYBMasonryAutoCellHeight.h>
+#import "NSString+Extension.h"
+
+
+
+
+#define kThemeColor [UIColor colorWithRed:0 green:(190 / 255.0) blue:(12 / 255.0) alpha:1]
+
+//屏宽
+#define HXWIDTH [UIScreen mainScreen].bounds.size.width
+#define kNavbarHeight       64
+
+
+#define kAvatar_Size 40
+#define kGAP 10
+
+
+
+
+
+#define kAlmostZero         0.0000001
+
+
+
+#endif /* PrefixHeader_pch */

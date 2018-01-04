@@ -1,0 +1,21 @@
+PODS:
+  - HYBMasonryAutoCellHeight (2.0.1):
+    - Masonry (~> 0.6)
+  - Masonry (0.6.4)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+
+DEPENDENCIES:
+  - HYBMasonryAutoCellHeight
+  - Masonry
+  - SDWebImage (~> 3.7.2)
+
+SPEC CHECKSUMS:
+  HYBMasonryAutoCellHeight: 9296583777080d32ba6257f55e52b7334dd481fc
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+
+PODFILE CHECKSUM: 899ce8a8d27bd197fb35ca0e0dfd5b2fbc478c15
+
+COCOAPODS: 1.2.0
